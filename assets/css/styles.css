@@ -4,6 +4,44 @@ body {
 }
 
 #container {
-    margin: 0 auto;
-    width: 70%;
+    background-color: yellow;
+    margin:0;
+    padding:0;
 }
+
+header {
+    background-color: blue;
+    margin: 0 auto;
+    padding:0;
+    width: 70%;
+    
+}
+ #mainLogo {
+    background-color: #4aaaa5;
+    height: 40px;
+    width: 300px;
+    float: left;
+    text-align: center;
+} 
+
+  nav {
+    background-color: grey;
+    float: right;
+    margin: 0;
+    padding: 0;
+}
+
+ul {
+    list-style: none;
+}
+
+li {
+    display: inline;
+}
+
+.clearfix::after {
+    content: "";
+    clear: both;
+    display: table;
+  }
+
