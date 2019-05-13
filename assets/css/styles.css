@@ -115,3 +115,10 @@ footer {
 input {
     width: 915px;
 }
+
+#portfolioBox {
+    background-color: #ffffff;
+    margin: 0 auto;
+    padding: 20px;
+    width: 920px; 
+}
