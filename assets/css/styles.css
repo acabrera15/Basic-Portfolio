@@ -47,7 +47,6 @@ li {
 }
 
 #leftBorder {
-    /* border-left: solid #666666 2px; */
     padding-left: 20px;
     border-left: 2px solid rgba(0, 0, 0, 0.05);
 }
@@ -79,6 +78,7 @@ li:nth-child(2) {
     width: 920px;
 }
 
+
 img {
     float: left;
     margin-right: 25px;
@@ -104,3 +104,10 @@ footer {
     bottom:0;
     width:100%;
 } 
+
+#contactBox {
+    background-color: #ffffff;
+    margin: 0 auto;
+    padding: 20px;
+    width: 920px; 
+}
