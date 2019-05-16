@@ -50,7 +50,7 @@ li {
     display: inline;
 }
 
-#leftBorder {
+.leftBorder {
     padding-left: 20px;
     border-left: 2px solid rgba(0, 0, 0, 0.05);
 }
@@ -69,7 +69,7 @@ li:nth-child(2) {
     display: table;
   }
 
-#line {
+.line {
     background-color: #cccccc;
     height: 2px;
 }
