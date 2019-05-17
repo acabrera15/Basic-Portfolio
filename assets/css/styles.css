@@ -156,3 +156,16 @@ input {
 #contactForm {
     margin-top: 20px;
 }
+
+#submitButton {
+    background-color: #4aaaa5;
+    color: #ffffff;
+    width: 110px;
+    font-size: 15px;
+    padding: 5px 0;
+}
+
+.inputLine {
+    margin-bottom: 10px;
+    margin-top: 5px;
+}
