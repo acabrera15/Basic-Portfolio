@@ -50,6 +50,16 @@ li {
     display: inline;
 }
 
+a {
+    text-decoration: none;
+    color: #777777;
+}
+
+a:hover {
+    font-size: 20px;
+    color: black;
+}
+
 .leftBorder {
     padding-left: 20px;
     border-left: 2px solid rgba(0, 0, 0, 0.05);
