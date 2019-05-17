@@ -175,4 +175,8 @@ input {
 .inputLine {
     margin-bottom: 10px;
     margin-top: 5px;
+    width: 100%
+}
+textarea {
+    width: 100%
 }
